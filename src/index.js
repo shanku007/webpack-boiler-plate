@@ -1,4 +1,4 @@
-import './stylesheet/index.scss';
+//import './stylesheet/index.scss';
 import './scripts/main.js';
 
 
